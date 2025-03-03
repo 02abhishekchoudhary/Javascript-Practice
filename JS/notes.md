@@ -4,7 +4,7 @@
 
 -> Functions -> arrow functions -> HOF -> Done
 
--> Arrays and objects -> Array destructuring -> Objects destructring -> Rest operator -> Spread operator
+-> Arrays and objects -> Array destructuring -> Objects destructring -> Rest operator -> Spread operator -> Done
 
 -> Conditions in JS -> If else -> Ternary operator -> using && and || -> Optional chaining
 
