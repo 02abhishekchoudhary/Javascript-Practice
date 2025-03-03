@@ -1,9 +1,17 @@
-\*\* Important topics of JS before learnign React JS
+## Important topics of JS before learning React JS:
+
 -> Basics of JS -> Variables - var, let, const -> Hoisting -> Done
--> Functions -> arrow functions -> HOF
+
+-> Functions -> arrow functions -> HOF -> Done
+
 -> Arrays and objects -> Array destructuring -> Objects destructring -> Rest operator -> Spread operator
+
 -> Conditions in JS -> If else -> Ternary operator -> using && and || -> Optional chaining
+
 -> Array methods -> map() -> filter() -> reduce() -> sort()
+
 -> Event listeners -> event bubbling & capturing
+
 -> Async Events -> callbacks -> callback hell -> Promises -> Promise APIs -> async await
+
 -> Try catch
