@@ -6,7 +6,7 @@
 
 -> Arrays and objects -> Array destructuring -> Objects destructring -> Rest operator -> Spread operator -> Done
 
--> Conditions in JS -> If else -> Ternary operator -> using && and || -> Optional chaining
+-> Conditions in JS -> If else -> Ternary operator -> using && and || -> Optional chaining -> Done
 
 -> Array methods -> map() -> filter() -> reduce() -> sort()
 
