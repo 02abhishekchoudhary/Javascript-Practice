@@ -8,10 +8,10 @@
 
 -> Conditions in JS -> If else -> Ternary operator -> using && and || -> Optional chaining -> Done
 
--> Array methods -> map() -> filter() -> reduce() -> sort()
+-> Array methods -> map() -> filter() -> reduce() -> sort() -> Done
 
--> Event listeners -> event bubbling & capturing
+-> Event listeners -> event bubbling & capturing -> Done
 
 -> Async Events -> callbacks -> callback hell -> Promises -> Promise APIs -> async await
 
--> Try catch
+-> Try catch -> Done
