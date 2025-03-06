@@ -1,0 +1,6 @@
+div {
+  min-width: 100px;
+  min-height: 125px;
+  padding: 50px;
+  border: 1px solid black;
+}

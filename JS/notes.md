@@ -15,3 +15,5 @@
 -> Async Events -> callbacks -> callback hell -> Promises -> Promise APIs -> async await
 
 -> Try catch -> Done
+
+-> Event capturning also known as event trickling.
