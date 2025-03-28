@@ -47,7 +47,7 @@ class Ninjas {
   }
 }
 
-const itachiUchia = new Ninjas("Itachi Uchia", "Chunin");
+const itachiUchia = new Ninjas("Itachi Uchia", "Jonin");
 itachiUchia.summary();
 
 // 5 -> Object.create() method
@@ -61,3 +61,19 @@ const cat = Object.create(animal);
 cat.name = "Bosa";
 cat.speak();
 console.log(cat);
+
+/*Operation with JS objects*/
+// Accesing the value of the object
+const user = { name: "Naruto", role: "Genin" };
+console.log(user.name);
+console.log(user["role"]);
+// Adding a key value pair
+user.age = 15;
+console.log(user);
+// Delete a key
+// delete user.name;
+// console.log(user);
+// Iterating over the keys of the given object
+for (let key in user) {
+  console.log(`${key}:${user[key]}`);
+}
